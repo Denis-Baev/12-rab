@@ -1,4 +1,4 @@
-let poly = 7897;
+let poly = 12321;
 let ylop = 0;
 let is_palindrome = false;
 let number = poly;
