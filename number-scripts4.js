@@ -1,4 +1,4 @@
-let lastNumber = 15;
+let lastNumber = 9;
 let multiplication_result = 1;
 
 for (i = 2; i <= lastNumber; i = i + 2 )
